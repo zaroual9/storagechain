@@ -1,2 +1,5 @@
 # storagechain
-In this project, we aimed to design and implement an efficient system for ensuring continuous data integrity in decentralized storage powered by blockchain and smart contracts. The system performs continuous checks on the stored data using the transparency and immutability features of blockchain
+
+This project focuses on designing and implementing an efficient system to ensure continuous data integrity in decentralized storage, powered by blockchain and smart contracts. The system conducts ongoing checks on stored data, leveraging the transparency and immutability features of blockchain.
+
+GitHub Repository: [storagechain](https://github.com/ErHamza/blockchaine)
